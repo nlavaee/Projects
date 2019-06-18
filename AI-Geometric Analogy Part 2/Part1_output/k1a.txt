@@ -1,0 +1,13 @@
+c1:[50.0, 50.0, 30.0]
+area = c1,2827.4333882308138
+circle(c1)
+vloc(c1,middle)
+hloc(c1,center)
+c2:[50.0, 50.0, 15.0]
+area = c2,706.8583470577034
+circle(c2)
+vloc(c2,middle)
+hloc(c2,center)
+inside(c2,c1)
+small(c2)
+large(c1)
