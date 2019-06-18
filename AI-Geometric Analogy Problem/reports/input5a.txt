@@ -1,0 +1,13 @@
+P1 = scc((45, 30), 0, (45, 40), 0, (55, 40), 0, (55, 30), 0, (45, 30)) = ['S4.0' '+' 'S1.0' '+' 'S2.0' '+' 'S3.0']
+square(P1)
+circle(C1)
+circle(C2)
+hloc(P1, center)
+vloc(P1, bottom)
+hloc(C1, center)
+vloc(C1, top)
+hloc(C2, center)
+vloc(C2, top)
+below(P1,C1)
+below(P1,C2)
+inside(C1,C2)

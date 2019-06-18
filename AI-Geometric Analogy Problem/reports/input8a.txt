@@ -1,0 +1,17 @@
+P1 = scc((20, 20), 0, (80, 20), 0, (50, 80), 0, (20, 20)) = ['S7.0' '+' 'S6.0' '+' 'S5.0']
+P2 = scc((60, 30), 0, (40, 30), 0, (40, 40), 0, (60, 40), 0, (60, 30)) = ['S4.0' '+' 'S1.0' '+' 'S2.0' '+' 'S3.0']
+triangle(P1)
+rectangle(P2)
+dot(D1)
+hloc(P1, center)
+vloc(P1, bottom)
+hloc(P2, center)
+vloc(P2, bottom)
+hloc(D1, left)
+vloc(D1, top)
+inside(P2,P1)
+above(P1,P2)
+right_of(P1,D1)
+below(P1,D1)
+right_of(P2,D1)
+below(P2,D1)

@@ -1,0 +1,21 @@
+S21=line(50, 10, 50, 50)= S18 + S19 + S20
+S22=line(30, 20, 60, 20)= S14 + S13 + S12
+S23=line(30, 40, 60, 40)= S8 + S9 + S10
+S24=line(40, 10, 40, 50)= S5 + S4 + S3
+P1 = scc((50, 10), 0, (80, 10), 0, (80, 50), 0, (50, 50), 0, (50, 10)) = ['S17.0' '+' 'S16.0' '+' 'S15.0' '+' 'S21.0']
+P2 = scc((60, 40), 0, (60, 20), 0, (30, 20), 0, (30, 40), 0, (60, 40)) = ['S11.0' '+' 'S22.0' '+' 'S7.0' '+' 'S23.0']
+P3 = scc((40, 10), 0, (40, 50), 0, (10, 50), 0, (10, 10), 0, (40, 10)) = ['S24.0' '+' 'S2.0' '+' 'S1.0' '+' 'S6.0']
+rectangle(P1)
+rectangle(P2)
+rectangle(P3)
+hloc(P1, right)
+vloc(P1, bottom)
+hloc(P2, left)
+vloc(P2, bottom)
+hloc(P3, left)
+vloc(P3, bottom)
+overlaps(P1,P2)
+right_of(P1,P2)
+right_of(P1,P3)
+overlaps(P2,P3)
+right_of(P2,P3)
