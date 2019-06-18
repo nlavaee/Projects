@@ -1,0 +1,19 @@
+# This is the Spec Test!
+c db mgr
+a 10
+e 2
+b 6
+p
+k lock #3
+k UI
+r
+p
+d 7
+d 1
+b 1
+p
+s
+e 3
+d 4
+p
+q

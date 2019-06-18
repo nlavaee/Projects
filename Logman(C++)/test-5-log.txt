@@ -1,0 +1,11 @@
+12:11:20:12:12|TCP|Bad packet received (CID #8432)
+12:15:20:12:12|EECS 281|I actually am really enjoying this class!
+12:11:20:12:57|Hello|I am really excited right now (#455)
+20:11:20:12:12|Beyonce Adele|The $queens$ of the music industry
+99:99:99:99:99|Ross Chandler|Most annoying character on friends:), commitment issues:(
+12:13:45:12:12|Leslie Knope|Iconic female figure
+12:11:20:12:12|~Twix~ Candy|The best goddamn, candy bar cook in the world (***3458***)
+12:11:20:12:12|Martha Cook|Just my $dorm
+12:11:20:12:12|This is the end|A movie I wished. I had never seen.
+12:15:20:12:12|eecs 281|I actually, am really enjoying this class!
+12:11:20:12:56|Martha Cook|I just really like this dorm

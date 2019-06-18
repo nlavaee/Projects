@@ -1,0 +1,19 @@
+k Bad packet
+k Suspending CPU
+k bluejacket
+k #4 lock
+k Thread #12
+k UI-PANE1 event
+k Connection to client lost
+k attempted grab
+k Connection connection
+k raised by process
+k Alarm ALRM
+k Query
+k Packet (CID #12353)
+k “SELECT * FROM users”
+k Humanity Unchurch
+k election. master
+k grab lock
+g
+q
