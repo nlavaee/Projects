@@ -1,0 +1,4 @@
+n,id,unique_views,tag,good,created,bookmarked,t,content
+3,invqq17i3o759t,60,euchre,0,2016-05-06T13:11:23Z,3,1470666192513,my code segfaults when bob is the dealer
+2,invptvvsaqx68o,56,euchre,0,2016-05-06T12:46:23Z,3,1470666192754,no rational explanation for this bug
+1,inv6qwqa5c258p,61,calculator,0,2016-05-06T03:52:12Z,3,1470666193003,countif function in stack class not working
