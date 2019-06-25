@@ -16,5 +16,3 @@ of clinical-decision support tools.
 I received the skeleton of these files and proceeded to write the functions in order to perform feature extraction,
 Hyperparameter & model selection [Linear & RBF Kernel SVM]. I also handled class imbalanced data and how to properly
 set class weights.
-
-My final report can be found under Report.pdf.
