@@ -10,5 +10,3 @@ For the challenge portion of this project, I employed Pytorch to design, impleme
 a deep neural netowrk of my own design in order to classify dog breeds. I had a really, really
 fun time do this and playing around with different models. My model is implemented in
 model/challenge.py. 
-
-My final report can be found in Report.pdf.zip
